@@ -1,0 +1,19 @@
+.main-container {
+  height: 100vh;
+  background-color: crimson;
+  padding: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+a {
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
